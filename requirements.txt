@@ -20,5 +20,6 @@ deep-translator==1.10.0
 # Optional: API requests (for weather or future features)
 requests==2.32.0
 
+python-dotenv  # <-- Add this line
 
 
