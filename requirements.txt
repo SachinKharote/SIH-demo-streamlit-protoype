@@ -1,0 +1,21 @@
+# Streamlit UI
+streamlit==1.30.0
+
+# Data handling
+pandas==2.1.0
+numpy==1.26.0
+
+# Charts & visualization
+matplotlib==3.8.0
+plotly==5.17.0
+seaborn==0.12.3
+
+# Machine Learning
+scikit-learn==1.3.0
+joblib==1.3.2
+
+# Multilingual support
+deep-translator==1.10.0
+
+# Optional: API requests (for weather or future features)
+requests==2.32.0
