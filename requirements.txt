@@ -2,7 +2,7 @@
 streamlit==1.30.0
 
 # Data handling
-pandas==2.1.0
+pandas
 numpy==1.26.0
 
 # Charts & visualization
@@ -19,3 +19,6 @@ deep-translator==1.10.0
 
 # Optional: API requests (for weather or future features)
 requests==2.32.0
+
+
+
