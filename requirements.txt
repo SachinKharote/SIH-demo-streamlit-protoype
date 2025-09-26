@@ -22,4 +22,5 @@ requests==2.32.0
 
 python-dotenv  # <-- Add this line
 
+sendgrid==6.11.0
 
