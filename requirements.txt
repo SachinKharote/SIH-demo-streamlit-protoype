@@ -3,7 +3,7 @@ streamlit==1.30.0
 
 # Data handling
 pandas
-numpy==2.3.3
+numpy==1.26.4   # ✅ Last stable before NumPy 2.0, compatible with Streamlit & sklearn
 
 # Charts & visualization
 matplotlib==3.8.0
@@ -20,9 +20,8 @@ deep-translator==1.10.0
 # Optional: API requests (for weather or future features)
 requests==2.32.0
 
-python-dotenv  # <-- Add this line
+python-dotenv   # for env vars
 
 sendgrid==6.11.0
 
 google-generativeai
-
