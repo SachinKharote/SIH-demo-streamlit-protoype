@@ -3,7 +3,7 @@ streamlit==1.30.0
 
 # Data handling
 pandas
-numpy==1.26.0
+numpy==2.3.3
 
 # Charts & visualization
 matplotlib==3.8.0
