@@ -16,7 +16,7 @@ from phase4_extras import chatbot_interface, image_upload_interface
 # -------------------------
 # Streamlit config (must be first Streamlit call)
 # -------------------------
-st.set_page_config(page_title="Smart Crop Planner", layout="wide")
+st.set_page_config(page_title="KrishiDhan", layout="wide")
 
 # -------------------------
 # Initialize DB
