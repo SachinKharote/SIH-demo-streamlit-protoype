@@ -116,7 +116,7 @@ if st.session_state.user:
 
     # Home
     if page == "Home":
-        st.title(translate("🌱 Smart Crop Planner", lang_code))
+        st.title(translate("🌱 KrishiDhan", lang_code))
         st.subheader(translate("Grow Smart, Earn More", lang_code))
         st.write(translate("This platform helps farmers choose crops, companion crops, and see market insights.", lang_code))
 
